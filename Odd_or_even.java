@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Oddoreven {
+public class Odd_or_even {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number =sc.nextInt();
