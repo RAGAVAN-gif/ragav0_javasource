@@ -12,13 +12,8 @@ class Revers {
             temp = temp/10;
         }
     }
-
-
-
     
 }
-
-
 
 public class Palindrome {
     public static void main(String[] args) {
@@ -40,3 +35,4 @@ public class Palindrome {
     
     
 }
+
